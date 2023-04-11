@@ -43,5 +43,4 @@ public class User implements Serializable {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
-
 }
